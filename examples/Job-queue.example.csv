@@ -1,0 +1,4 @@
+Queue #,Task list,Session Name,Skill,Agent,QA,Destination folder /link,Flags,Update on the task,Comments from Dispatcher,User comments,Notified user via
+1,Example research task,Research Worker,web-research,,,outputs/queue-001/,PENDING,,, ,
+2,Example build task,Code Worker,code-build,,,outputs/queue-002/,PENDING,,, ,
+3,Example task requiring clarification,GTM Worker,gtm-workflow,,,outputs/queue-003/,BLOCKED_USER,Please confirm target account segment before proceeding.,Parked pending user response.,,
